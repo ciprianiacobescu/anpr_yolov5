@@ -8,5 +8,5 @@ matplotlib
 pycocotools
 tqdm
 pillow
-tensorboard
+tensorboard==2.2.2
 pyyaml
