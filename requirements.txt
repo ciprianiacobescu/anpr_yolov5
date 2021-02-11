@@ -5,8 +5,8 @@ opencv-python
 # torch==1.5.1
 # torchvision==0.6.1
 matplotlib
-pycocotools
-tqdm
-pillow
+pycocotools==2.0.1
+tqdm==4.46.1
+pillow==7.1.2
 tensorboard==2.2.2
-pyyaml
+pyyaml==3.13
